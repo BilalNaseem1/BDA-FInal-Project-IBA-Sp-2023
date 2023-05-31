@@ -2,3 +2,5 @@
 
 Submitted by: Bilal Naseem, M. Salman Malik, Jahanzaib Faisal
 
+### In order to run this project:
+<mark>Step 1</mark>
