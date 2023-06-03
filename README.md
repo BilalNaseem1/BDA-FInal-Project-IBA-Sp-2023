@@ -23,21 +23,21 @@ Development and deployment of a Random Forest Classifier using Spark ML to deter
 
 Docker images are hosted on Docker Hub. Here is the command structure to pull an image:
 
-shell
-docker pull salmanmalik98/ml-ops-end-to-end-streamlitapi:latest
+```shell
+docker pull bilal326/bda-final-project-streamlitapi:latest
+```
 
-
-shell
-docker pull salmanmalik98/ml-ops-end-to-end-pysparkapi:latest
-
+```shell
+docker pull bilal326/bda-final-project-pysparkapi:latest
+```
 
 # Quick start
 
 By default docker-compose uses images defined in the file with `latest` tag.
 
-shell
+```shell
 docker-compose up -d
-
+```
 
 # Development
 
@@ -45,9 +45,9 @@ When in development mode use below command to build the image to get quick feedb
 
 This will build docker image from local build context
 
-shell
+```shell
 docker-compose up -d --build
-
+```
 
 # Accessing the Application UI
 
