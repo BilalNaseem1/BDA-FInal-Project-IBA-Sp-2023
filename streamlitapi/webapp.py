@@ -10,7 +10,7 @@ url = 'http://pysparkapi:5000'
 endpoint = '/api/'
 
 # description and instruction
-st.write('''A real time scoring API for PySpark Model''')
+st.write('''A real time scoring API for PySpark Model - BDA Final Project - Bilal Naseem 13216, Jahanzaib Faisal 27254, Salman Malik 27256''')
 
 st.header('User Input Features')
 
