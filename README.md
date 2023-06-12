@@ -1,8 +1,8 @@
-# Big Data Analytics Final Project - MLOps-end-to-end-project - IBA Sp. 2023
+# Big Data Analytics Final Project - Big Data MLOps-end-to-end-project using PySpark, Docker and Streamlit - IBA Sp. 2023
 
 Group Members: Bilal Naseem, M. Salman Malik, Jahanzaib Faisal
 
-End-to-end prediction model development using PySpark with Docker and Streamlit
+End-to-end prediction model development using PySpark, Docker and Streamlit
 
 Project Demo Video: https://www.youtube.com/watch?v=M-w6dpkdUFs
 
